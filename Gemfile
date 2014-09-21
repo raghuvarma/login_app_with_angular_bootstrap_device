@@ -22,6 +22,8 @@ gem 'devise', '3.2.4'
 
 gem 'cancan', '1.6.10'
 
+gem "less-rails"
+
 gem 'twitter-bootstrap-rails', '~> 2.2.8'
 
 gem 'better_errors', '~> 2.0.0'
